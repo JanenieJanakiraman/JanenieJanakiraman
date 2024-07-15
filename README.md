@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**JanenieJanakiraman/JanenieJanakiraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Janenie Janakiraman**, a passionate developer and tech enthusiast.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Current Projects
+- [Project Name](Link to the project): Brief description of the project.
+- [Another Project](Link to the project): Brief description of another project.
+
+#### 🌱 Learning Journey
+- Currently exploring: **Technology/Topic**
+- Future plans: **Technology/Topic**
+
+#### 👯 Collaborations
+- Interested in collaborating on **Specific topics or projects**.
+- Open to contributing to **Open Source Projects**.
+
+#### 🤔 Seeking Help With
+- Looking for guidance on **Specific issue or technology**.
+- Seeking collaborators for **Project Name**.
+
+#### 💬 Ask Me About
+- **Technology**: Brief description.
+- **Another Topic**: Brief description.
+
+#### 📫 How to Reach Me
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+#### 😄 Pronouns
+- **He/Him** or **She/Her** or **They/Them**
+
+#### ⚡ Fun Fact
+- Share an interesting or fun fact about yourself.
+
+---
+
+Feel free to reach out if you want to collaborate or just chat about tech!
+
+![Profile Views](https://komarev.com/ghpvc/?username=JanenieJanakiraman&color=blue)
