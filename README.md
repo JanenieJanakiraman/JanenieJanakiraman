@@ -42,3 +42,11 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JanenieJanakiraman&color=blue)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraggerr&show_icons=true&locale=en&layout=compact" alt="fraggerr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fraggerr&show_icons=true&locale=en" alt="fraggerr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraggerr&" alt="fraggerr" /></p>
+
+
