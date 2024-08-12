@@ -16,21 +16,7 @@ Smartphone-based diabetic Retinopathy detection system using CNN Knowledge disti
 
 Within the Diabetic Retinopathy Detection project, an extensive analysis of Machine Learning (ML) and Convolutional Neural Network (CNN) models was carried out. This rigorous evaluation aimed to assess the efficiency and accuracy of these models in detecting diabetic retinopathy markers from retinal images. The insights gleaned from this analysis significantly influenced the research's methodology, ensuring the adoption of the most effective and reliable models for early disease diagnosis
 
-#### 🌱 Learning Journey
-- Currently exploring: **Technology/Topic**
-- Future plans: **Technology/Topic**
 
-#### 👯 Collaborations
-- Interested in collaborating on **Specific topics or projects**.
-- Open to contributing to **Open Source Projects**.
-
-#### 🤔 Seeking Help With
-- Looking for guidance on **Specific issue or technology**.
-- Seeking collaborators for **Project Name**.
-
-#### 💬 Ask Me About
-- **Technology**: Brief description.
-- **Another Topic**: Brief description.
 
 #### 📫 How to Reach Me
 - **Email**: janenie0541@gmail.com
