@@ -33,8 +33,8 @@ Within the Diabetic Retinopathy Detection project, an extensive analysis of Mach
 - **Another Topic**: Brief description.
 
 #### 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:janenie0541@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https:[//www.linkedin.com/in/your-profile](https://www.linkedin.com/in/janenie-janakiraman-299b10292/))
+- **Email**: janenie0541@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/janenie-janakiraman-299b10292/
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 #### 😄 Pronouns
