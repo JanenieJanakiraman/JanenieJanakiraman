@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm **Janenie Janakiraman**, a passionate developer and tech enthusiast.
+I'm **Janenie Janakiraman**, 
 
----
+I'm a final year Computer Science student and my interests lie in Machine Learning, Computer Vision, AI in healthcare and Sustainability!
+
+
+---Let's look into what I have been working on currently
 
 #### 🔭 Current Projects
 - [
