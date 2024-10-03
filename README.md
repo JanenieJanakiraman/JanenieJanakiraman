@@ -24,15 +24,13 @@ Within the Diabetic Retinopathy Detection project, an extensive analysis of Mach
 #### 📫 How to Reach Me
 - **Email**: janenie0541@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/janenie-janakiraman-299b10292/
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
 
 #### 😄 Pronouns
 -  **She/Her***
 
-#### ⚡ Fun Fact
-- Share an interesting or fun fact about yourself.
 
----
+
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
